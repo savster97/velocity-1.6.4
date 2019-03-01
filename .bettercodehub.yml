@@ -1,0 +1,9 @@
+exclude:
+- /bin/.*
+- /build/.*
+- /convert/.*
+- /docs/.*
+- /examples/.*
+- /lib/.*
+- /test/.*
+- /xdocs/.*
