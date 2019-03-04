@@ -1,9 +1,11 @@
 exclude:
-- /bin/.*
-- /build/.*
-- /convert/.*
-- /docs/.*
-- /examples/.*
-- /lib/.*
-- /test/.*
-- /xdocs/.*
+  - /bin/.*
+  - /build/.*
+  - /convert/.*
+  - /docs/.*
+  - /examples/.*
+  - /lib/.*
+  - /test/.*
+  - /xdocs/.*
+include:
+  - /src/.*
